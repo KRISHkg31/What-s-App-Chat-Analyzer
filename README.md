@@ -1,6 +1,5 @@
-# Wanalyicia - WhatsApp Chat Analyzer
+# WhatsApp Chat Analyzer
 
-![Demo](https://github.com/supriya811106/WhatsApp-Chat-Analyzer-App/assets/89856408/3eb5eff6-5884-42b8-acc6-a2c316e53500)
 
 ## 📜 Table of Contents
 
@@ -15,11 +14,10 @@
 
 ## 🌟 Introduction
 
-**Wanalyicia** is an insightful tool that lets users dive deep into their WhatsApp chat narratives, unveiling a spectrum of data-driven revelations. This tool gives users the ability to comprehend various facets of their chat – from sentiment landscapes to user engagement metrics.
+**What's App Chat Analyzer** is an insightful tool that lets users dive deep into their WhatsApp chat narratives, unveiling a spectrum of data-driven revelations. This tool gives users the ability to comprehend various facets of their chat – from sentiment landscapes to user engagement metrics.
 
-Experience **Wanalyicia** live: [Wanalyicia: WhatsApp Chat Analyzer](https://whastapp-chat-anlyzer-lzi5.onrender.com/)
 
-Why Wanalycia? Because every conversation carries insights. With Wanalyicia, you don't just read messages. You understand them.
+Why What's App Chat Analyzer? Because every conversation carries insights. With What's App Chat Analyzer, you don't just read messages. You understand them.
 
 ## 🔥 Features
 
@@ -50,11 +48,11 @@ Why Wanalycia? Because every conversation carries insights. With Wanalyicia, you
 Follow these steps if you're looking to understand your WhatsApp conversations:
 
 1. Start by exporting the chat (without media) from WhatsApp.
-2. Head over to the **Wanalycia** portal. live Demo: [Wanalyicia: WhatsApp Chat Analyzer](https://whastapp-chat-anlyzer-lzi5.onrender.com/)
+2. Head over to the **What's App Chat Analyzer** portal. live Demo: [Wanalyicia: WhatsApp Chat Analyzer](https://whastapp-chat-anlyzer-lzi5.onrender.com/)
 3. Click on the upload icon to insert the chat file.
 4. If it's a group chat, you can select specific users for analysis.
 5. Choose the type of analysis you're interested in.
-6. Let Wanalycia work its magic and prepare to be amazed!
+6. Let What's App Chat Analyzer work its magic and prepare to be amazed!
 
 ## 📦 Dependencies
 
@@ -107,4 +105,4 @@ Remember to regularly sync your fork with the upstream repository and ensure all
 ## ✉ Feedback & Contact
 Every piece of feedback helps to create a better experience. Share your thoughts, critiques, or even praises:
 
-Email: supriyasuman0708@gmail.com
+Email: krishguptack90@gmail.com
