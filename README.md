@@ -77,7 +77,7 @@ Ensure your environment has the following packages:
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/supriya811106/WhatsApp-Chat-Analyzer-App.git
+   https://github.com/KRISHkg31/What-s-App-Chat-Analyzer.git
    cd WhatsApp-Chat-Analyzer-App
 2. **Environment Setup**:
    ```bash
